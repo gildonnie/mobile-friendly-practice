@@ -1,0 +1,60 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+  
+    text-align: center;
+    background: #0c1d20 linear-gradient(0deg, #0c1d20 0%, #3abed8 100%);
+}
+
+hr.waves{
+    border: none;
+    background: url(/wave.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    aspect-ratio: 600/80;
+}
+header h1 {
+    margin: 0;
+    padding-top: 5%;
+    text-align: center;
+    color: white;
+}
+
+div.left{
+    padding-left: 20%;
+    padding-right: 20%;
+      
+}
+
+.left h2{
+    color: #178d89;
+    text-transform: uppercase;
+
+
+}
+
+div.right{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: right;
+    padding-bottom: 3%;
+    
+}
+
+ div.right h2{
+    
+    color: #178d89;
+    text-transform: uppercase;
+
+}
+
+footer{
+    padding: 3%;
+    background-color: #020a0f;
+    color: #ffffff;
+    text-align: center;
+
+}
